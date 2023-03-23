@@ -1,6 +1,6 @@
-# Inicializador Webpack
+# Inicializador Webpack-react
 
-Plantilla de proyecto webpack
+Plantilla de proyecto webpack con react integrado
 
 ### nota:
 -Instalar node_modules:
